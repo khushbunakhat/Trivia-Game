@@ -1,6 +1,6 @@
 # trivia 
 # Table of Contents:
-1.General Information 2.Technologies 3.Live Demo 
+1.General Information 2.Technologies 3.Features
 
 # 1.General Information
 * Answer the Questions
@@ -12,6 +12,8 @@
 # 2.Technologies
 React.js(useState,useEffect,API)
 
-# 3.Live Demo
+# 3.Images
+![image](https://user-images.githubusercontent.com/86652571/147740230-9a03aa6c-6083-4379-857f-829355646915.png)
+
 
 
