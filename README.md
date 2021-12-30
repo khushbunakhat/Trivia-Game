@@ -10,7 +10,7 @@
 
  
 # 2.Technologies
-React.js, Api
+React.js(useState,useEffect,API)
 
 # 3.Live Demo
 
