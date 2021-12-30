@@ -23,6 +23,7 @@ function App() {
   const checkAnswer=()=>{
    if(val===answer){
     setMessage("Correct");
+    setScore(score+1);
   }
     else{
       setMessage("InCorrect");
@@ -34,7 +35,11 @@ function App() {
   
   return (
     <div className="App">
-      <h1>TRIVIA GAME</h1>
+       <h1>TRIVIA GAME</h1>
+      <div className="scoreboard">
+        <h2>Scoreboard </h2>
+       <h3> your score is: {score} </h3>
+       </div>
       <h1 className="questions">Questions</h1>
       <h3 className="ques">{questions}</h3>
        <input type="text" className="inputbox" value={val}onChange={(event)=>{setVal(event.target.value)}}/><br/>
