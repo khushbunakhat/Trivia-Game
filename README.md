@@ -9,6 +9,7 @@ I have created a Trivia-Game App.This App will give you random questions.Just ty
 React.js(useState,useEffect,API)
 
 # 3.Live Demo
+https://trivia-game-by-khushbu-nakhat.netlify.app/
 
 # 4.Features
 image of website
